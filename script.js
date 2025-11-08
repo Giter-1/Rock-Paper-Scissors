@@ -50,4 +50,3 @@ const playRound = () => {
 };
 
 playRound();
-console.log(getComputerChoice());
